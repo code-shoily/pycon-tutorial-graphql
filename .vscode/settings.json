@@ -3,10 +3,10 @@
   "editor.tabSize": 4,
   "python.linting.pylintEnabled": false,
   "python.formatting.provider": "yapf",
-  "python.pythonPath": "/home/mafinar/.venv/tread/bin/python",
-  "python.venvPath": "/home/mafinar/.venv/tread",
+  "python.pythonPath": "/home/mafinar/.venv/pycon/bin/python",
+  "python.venvPath": "/home/mafinar/.venv/pycon",
   "python.autoComplete.extraPaths": [
-    "/home/mafinar/.venv/tread",
-    "/home/mafinar/.venv/tread/lib"
+    "/home/mafinar/.venv/pycon",
+    "/home/mafinar/.venv/pycon/lib"
   ]
 }

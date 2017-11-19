@@ -125,6 +125,7 @@ class DeviceMutation(SerializerMutation):
 
 class AppRootMutation(graphene.ObjectType):
     clan_mutation = ClanMutation.Field()
+    asset_type_mutation = AssetTypeMutation.Field()
 
 
 schema = graphene.Schema(query=AppRootQuery, mutation=AppRootMutation)
