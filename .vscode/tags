@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLOWED_HOSTS	../gqltut/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../gqltut/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+BASE_DIR	../gqltut/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../gqltut/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../gqltut/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+INSTALLED_APPS	../gqltut/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../gqltut/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../gqltut/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+ROOT_URLCONF	../gqltut/settings.py	/^ROOT_URLCONF = 'gqltut.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../gqltut/settings.py	/^SECRET_KEY = '(+15mx)@2o=^x6mphfjp(@f8z@7=wx*trb0!93r+iz@q%bq#ie'$/;"	kind:variable	line:23
+STATIC_URL	../gqltut/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../gqltut/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../gqltut/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+USE_I18N	../gqltut/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../gqltut/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../gqltut/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../gqltut/settings.py	/^WSGI_APPLICATION = 'gqltut.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../gqltut/__init__.py	1;"	kind:file	line:1
+application	../gqltut/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+manage.py	../manage.py	1;"	kind:file	line:1
+settings.py	../gqltut/settings.py	1;"	kind:file	line:1
+urlpatterns	../gqltut/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urls.py	../gqltut/urls.py	1;"	kind:file	line:1
+wsgi.py	../gqltut/wsgi.py	1;"	kind:file	line:1
